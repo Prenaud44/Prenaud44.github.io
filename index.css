@@ -1,1 +1,8 @@
-nav{background-color: lightgreen;height: 10em;width: 100%;}
+.nav-item{
+	width: 6em;
+	text-align: center;
+}
+.navbar-brand{
+	text-align: center;
+}
+a:hover {transform: skew(30deg, 20deg);}
